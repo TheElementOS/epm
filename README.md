@@ -1,2 +1,3 @@
-# epm
-i added readme by mistake lmao
+# EPM - eclair package manager
+EPM is package manager designed for elementOS.
+Simple as that.
